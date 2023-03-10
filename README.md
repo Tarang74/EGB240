@@ -1,20 +1,20 @@
-# QUT-Notes-Template - Unit name
+# EGB240 - Electronic Design
 
-## Unit coordinator name
+## Assoc Prof Ajay Pandey
 
-### 
+### Semester 1, 2023
 
 ---
 
 ## Downloads
 
-Lecture notes download: [QUT-Notes-Template Lecture Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Lecture%20Notes.pdf)
+Lecture notes download: [EGB240 Lecture Notes PDF](https://www.github.com/Tarang74/EGB240/raw/main/EGB240%20Lecture%20Notes.pdf)
 
-Exam notes download: [QUT-Notes-Template Exam Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Exam%20Notes.pdf)
+Exam notes download: [EGB240 Exam Notes PDF](https://www.github.com/Tarang74/EGB240/raw/main/EGB240%20Exam%20Notes.pdf)
 
 ---
 
-This repository provides **lecture notes** and **exam notes** for **QUT-Notes-Template - Unit name**.
+This repository provides **lecture notes** and **exam notes** for **EGB240 - Electronic Design**.
 
 *The contents of the lecture notes are described below.*
 
